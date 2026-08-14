@@ -58,7 +58,7 @@ To get a local copy up and running, follow these steps:
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/dev-gemini-clone.git
+https://github.com/Lalan12309/GitOps-Based-AI-Chatbot-Deployment.git
 
 # Navigate to the project directory
 cd dev-gemini-clone
